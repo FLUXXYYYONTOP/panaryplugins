@@ -3,10 +3,9 @@
         {
             "Icon": "https://cdn.discordapp.com/attachments/1203389326629670952/1203396841069350963/icon.png?ex=65d0f1a4&is=65be7ca4&hm=1b8d00abc12fcb269296486d25bfc9cf9cadaa530ae29bffbd102b3c9aed245b&",
             "Download": "https://cdn.discordapp.com/attachments/1203389326629670952/1203392614146117632/UNCHAINEDRAMIREZ.json?ex=65d0edb5&is=65be78b5&hm=950470a88b6131732cc2413d86e27f76e3a09f17d0509605d53fcd6a427e5002&"
-        }
-    "Plugins": [
+        },
         {
-            "Icon": "https://fortnite-api.com/images/cosmetics/br/character_darkninjawhite/icon.png"
+            "Icon": "https://fortnite-api.com/images/cosmetics/br/character_darkninjawhite/icon.png",
             "Download": "https://cdn.discordapp.com/attachments/1201904633094602774/1201904633971216476/1706619916_Mysterious_Fate_.json?ex=65cb83eb&is=65b90eeb&hm=bc8a55cc84dc59cc595d001764b1fd298d95940b3380326fab4d66afbf85443f&"
         }
     ]
