@@ -2,17 +2,17 @@
     
     "Plugins": [
         {
-            "Name": "Unchained Ramirez",
+            "Name": "UNCHAINED RAMIREZ",
             "Icon": "https://cdn.discordapp.com/attachments/1203389326629670952/1203396841069350963/icon.png?ex=65d0f1a4&is=65be7ca4&hm=1b8d00abc12fcb269296486d25bfc9cf9cadaa530ae29bffbd102b3c9aed245b&",
             "Download": "https://cdn.discordapp.com/attachments/1203389326629670952/1203392614146117632/UNCHAINEDRAMIREZ.json?ex=65d0edb5&is=65be78b5&hm=950470a88b6131732cc2413d86e27f76e3a09f17d0509605d53fcd6a427e5002&"
         },
         {
-            "Name": "Mysterious Fate",
+            "Name": "MYSTERIOUS FATE",
             "Icon": "https://fortnite-api.com/images/cosmetics/br/character_darkninjawhite/icon.png",
             "Download": "https://cdn.discordapp.com/attachments/1201904633094602774/1201904633971216476/1706619916_Mysterious_Fate_.json?ex=65cb83eb&is=65b90eeb&hm=bc8a55cc84dc59cc595d001764b1fd298d95940b3380326fab4d66afbf85443f&"
         },
         {
-            "Name": "Mystery Zone",
+            "Name": "MySTERY ZONE",
             "Icon": "https://cdn.discordapp.com/attachments/1201904804738388018/1201904804868391022/image.png?ex=65cb8413&is=65b90f13&hm=30b0737443c59225eb3a595a6b7a6e54f4eea4261ce340f12e5b01cb3249f0d8&",
             "Download": "https://cdn.discordapp.com/attachments/1201904804738388018/1201904805094891521/1706620137_Mystery_Zone_.json?ex=65cb8413&is=65b90f13&hm=03b86ce0b2b1605962f7ebe6e6d372e0aeba4c277c89bc81c86d8d2ff0f410a0&"
         },
@@ -27,17 +27,17 @@
             "Download": "https://cdn.discordapp.com/attachments/1201526209889194066/1201526210149236776/1704660377_LAMBORGHINI_HURACAN_STO_.json?ex=65ca237b&is=65b7ae7b&hm=7e87e6c7bf27426ebfac56e9f175ca36b1b8abee100385ba2769ddbddc758f8b&"
         },
         {
-            "Name": "Wonder McDonalds",
+            "Name": "WONDER MCS DONALDS",
             "Icon": "https://cdn.discordapp.com/attachments/1198641567536255096/1198641569079775232/image-removebg-preview_4.png?ex=65c8df73&is=65b66a73&hm=aee6f57eec55e7cf42977040ec1ff47cc1d869ab50440b867fb93cbd78389faf&",
             "Download": "https://cdn.discordapp.com/attachments/1195033668998152333/1203713168334004345/WonderUpdatedmcs.json?ex=65d2183f&is=65bfa33f&hm=46f88d96c2c47d2f1a383427e8d6b80e33433dde5572ba0d6f0f4f8b284c9b18&"
         },
         {
-            "Name": "Robo-Ray",
+            "Name": "ROBO-RAY",
             "Icon": "https://cdn.discordapp.com/attachments/1192172163650834514/1203466071621894144/icon.png?ex=65d1321e&is=65bebd1e&hm=123996d7a169f878fb03cda31a5184155a96d9b304632c98951d67cb3fd35e25&",
             "Download": "https://cdn.discordapp.com/attachments/1195033668998152333/1203468351737958461/roboray.json?ex=65d1343e&is=65bebf3e&hm=7dd3dfba3582b712572d852606235cc21a9185fae007c8650660d587bdef3c88&"
         },
         {
-            "Name": "Padme Amidala",
+            "Name": "PADME AMIDALA",
             "Icon": "https://cdn.discordapp.com/attachments/1195033668998152333/1203520017027702875/icon.png?ex=65d1645c&is=65beef5c&hm=37790a53731d7bd03adc9524c457de59756356b598071bde9a149dc173ca7f98&",
             "Download": "https://cdn.discordapp.com/attachments/1195033668998152333/1203521989755670538/padme.json?ex=65d16632&is=65bef132&hm=be855c47dcf785953c6146fbfa8f3364323538cd200c8afa8ea18ba33a4b8c2f&"
         },
@@ -45,6 +45,11 @@
             "Name": "AGENT JONES",
             "Icon": "https://cdn.discordapp.com/attachments/1192172163650834514/1205562179378749470/icon.png?ex=65d8d245&is=65c65d45&hm=c51531922fe8104071a0adafb92073b9c890c330b66444a29b9d9d517d123f74&",
             "Download": "https://cdn.discordapp.com/attachments/1192172163650834514/1205561794513342474/1706583675_Agent_Jhonnes_.json?ex=65d8d1ea&is=65c65cea&hm=b1b2604150f28a537ee73eda91a11670d87f5aadfacc8e5803f3ade4dcdea70d&"
+        },
+        {
+            "Name": "TEX FLAMINGO",
+            "Icon": "https://cdn.discordapp.com/attachments/1202395705336008815/1202395705524748349/image.png?ex=65d687c3&is=65c412c3&hm=1436d8b36409cd12f852bf3e1b3b031e77e3c30b70f4fd10fa2b3bef8ecab500&",
+            "Download": "https://cdn.discordapp.com/attachments/1195033668998152333/1205979033674715166/1706743149_Tex_Flamingo_.json?ex=65da567f&is=65c7e17f&hm=da4924aab87f12cf7a40b0b73e1533e77c995684d51a511c02798158413b3d9b&"
         },
         {
             "Name": "SGT. DRAKE",
